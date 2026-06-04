@@ -326,11 +326,20 @@ Future releases will include:
 * Wearable integrations
 
 ---
-#**CONTRIBUTERS**:
-*PORANKI GOKULESH VARMA--porankigokuleshvarma9@gmail.com--Team Leader
-*SHAIK MUSHTAAQ--Vu241fa04e24@gmail.com--Prompt Engineer
-*SOMUROUTHU SAI VENKATA SUBHASH--gntppb09subhash@gmail.com--Sports Domain Expert
-*CHIMALADINNE BHANU PRAKASH--chimaladinnebhanuprakash@gmail.com--Computer Vision Engineer
+# 👥 Contributors
+
+| Name | Role | Email |
+|------|------|--------|
+| **Poranki Gokulesh Varma** | 🚀 Team Leader | porankigokuleshvarma9@gmail.com |
+| **Shaik Mushtaaq** | 💡 Prompt Engineer | Vu241fa04e24@gmail.com |
+| **Somurouthu Sai Venkata Subhash** | 🏅 Sports Domain Expert | gntppb09subhash@gmail.com |
+| **Chimaladinne Bhanu Prakash** | 👁️ Computer Vision Engineer | chimaladinnebhanuprakash@gmail.com |
+
+---
+
+### 🤝 Team ATHLETE INTELLIGENCE
+
+Together, we are building an AI-powered sports intelligence ecosystem that combines Artificial Intelligence, Computer Vision, Sports Science, and Data Analytics to help athletes train smarter, perform better, and compete strategically.
 
 # 📜 License
 
