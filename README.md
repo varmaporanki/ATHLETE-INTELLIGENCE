@@ -326,6 +326,11 @@ Future releases will include:
 * Wearable integrations
 
 ---
+#CONTRIBUTERS
+PORANKI GOKULESH VARMA--porankigokuleshvarma9@gmail.com--Team Leader
+SHAIK MUSHTAAQ--Vu241fa04e24@gmail.com--Prompt Engineer
+SOMUROUTHU SAI VENKATA SUBHASH--gntppb09subhash@gmail.com--Sports Domain Expert
+CHIMALADINNE BHANU PRAKASH--chimaladinnebhanuprakash@gmail.com--Computer Vision Engineer
 
 # 📜 License
 
